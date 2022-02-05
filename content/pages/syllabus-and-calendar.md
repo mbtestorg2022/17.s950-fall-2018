@@ -38,11 +38,54 @@ The third section will apply the material from the first two sections to politic
 Course Requirements and Grading
 -------------------------------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _Students are expected to attend every class and actively participate in discussion_ {{< br >}}{{< br >}}  | 25% |
-| Short paper | 25% |
-| Final paper (20–25 pages)  | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_Students are expected to attend every class and actively participate in discussion_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (20–25 pages) 
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Details on the papers can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
@@ -58,21 +101,195 @@ All other readings can be found in the [Readings]({{< baseurl >}}/pages/readings
 Calendar
 --------
 
-| WEEK # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Section 1: General Features and Issues**{{< /td-colspan >}} |||
-| 1 | Introduction and General Discussion; Old and New Conceptions of Emotions | &nbsp; |
-| 2 | Emotion and Reason; Emotion and Cognition | &nbsp; |
-| {{< td-colspan 3 >}}**Section 2: Specific Emotions**{{< /td-colspan >}} |||
-| 3 | Anger and Fear | &nbsp; |
-| 4 | Disgust / Contempt and Sadness / Happiness | &nbsp; |
-| 5 | Indignation, Envy, Spite | Short paper due |
-| {{< td-colspan 3 >}}**Section 3: Emotions and Politics**{{< /td-colspan >}} |||
-| 6 | Emotions and the Politics of Redistribution | &nbsp; |
-| 7 | Backlash | &nbsp; |
-| 8 | Voting | &nbsp; |
-| 9 | Emotions and Violence I: Ethnic and Nationalist Violence | &nbsp; |
-| 10 | Emotions and Violence II: Vengeance and Reconciliation | &nbsp; |
-| 11 | Emotions and International Politics I | &nbsp; |
-| 12 | Emotions and International Politics II | &nbsp; |
-| 13 | Wrap Up | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section 1: General Features and Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and General Discussion; Old and New Conceptions of Emotions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Emotion and Reason; Emotion and Cognition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section 2: Specific Emotions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Anger and Fear
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Disgust / Contempt and Sadness / Happiness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Indignation, Envy, Spite
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section 3: Emotions and Politics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and the Politics of Redistribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Backlash
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Voting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and Violence I: Ethnic and Nationalist Violence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and Violence II: Vengeance and Reconciliation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and International Politics I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and International Politics II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
