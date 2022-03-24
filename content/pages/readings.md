@@ -48,7 +48,7 @@ Machiavelli, Niccolò. “[Concerning Cruelty and Clemency, and Whether it is Be
 
 Lerner, Jennifer S., Ye Li, et al. “[Emotion and Decision Making](https://www.annualreviews.org/doi/full/10.1146/annurev-psych-010213-115043).” _Annual Review of Psychology_ 66 (2015):799–823.
 
-Ekman, Paul. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[What Scientists Who Study Emotion Agree About.” (PDF)](http://www.paulekman.com/wp-content/uploads/2013/07/What-Scientists-Who-Study-Emotion-Agree-About.pdf) _Perspectives on Psychological Science_ 11 (2016): 31–34.
+Ekman, Paul. “[What Scientists Who Study Emotion Agree About.” (PDF)](http://www.paulekman.com/wp-content/uploads/2013/07/What-Scientists-Who-Study-Emotion-Agree-About.pdf) _Perspectives on Psychological Science_ 11 (2016): 31–34.
 
 _Optional_
 
