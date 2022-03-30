@@ -13,6 +13,7 @@ image_metadata:
     \ Commons license. For more information, see https://ocw.mit.edu/help/faq-fair-use/."
   image-alt: A graph illustrating the number of papers on "emotions(s)/affect/mood
     and decision making" from 1970 to 2012.
+parent_uid: 27ea68a2-b766-b748-95ea-ea9a4a0d4f67
 resourcetype: Image
 title: 17.S950 Figure 1.JPG
 uid: fe058c8a-cefa-acf7-f7b4-52fb118919e8

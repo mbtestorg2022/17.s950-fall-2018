@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 27ea68a2-b766-b748-95ea-ea9a4a0d4f67
 resourcetype: Image
 title: 17.S950_Figure1.JPG
 uid: ff4cde98-fa64-3921-08d5-52a77cfa2209
